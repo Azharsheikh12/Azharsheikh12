@@ -19,7 +19,6 @@ I'm a passionate **Ruby on Rails Developer** with over 3 years of experience bui
 
 ## 📈 GitHub Stats
 
-![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azharsheikh12&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azharsheikh12&layout=compact)
 
 ---
